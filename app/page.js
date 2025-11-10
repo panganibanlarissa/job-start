@@ -27,7 +27,7 @@ export default function LandingPage() {
           No resumes, no long applications. Just real work, right now. <br/>
           <strong>Find Flexible Work in Your Community. Today.</strong>
         </p>
-        <Link href="/auth/login" className={styles.ctaButton}>
+        <Link href="/auth/signup" className={styles.ctaButton}>
           Get Started
         </Link>      
       </main>
